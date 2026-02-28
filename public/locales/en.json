@@ -1,0 +1,313 @@
+{
+    "nav": {
+        "home": "Home",
+        "projects": "Projects",
+        "faq": "FAQ",
+        "blog": "Blog",
+        "process": "Methodology",
+        "login": "Login",
+        "signup": "Join Us"
+    },
+    "hero": {
+        "title": "Nahg Al-Tanfeez",
+        "brand": "Nahg Al-Tanfeez",
+        "tagline": "Strategic Partner for Business Development & Digital Transformation",
+        "description": "We help startups and SMEs grow, improve performance through operational excellence, and develop digital identities with the latest business tech solutions.",
+        "subtitle": "Strategic Transformation Partner for Non-Profit Organizations in Saudi Arabia",
+        "cta": "Book Your Free Consultation",
+        "stats_title": "Our Integrated Consulting Services",
+        "stat_1": "Project Building",
+        "stat_1_items": [
+            "Project Building Services",
+            "Donor Services",
+            "Project Design Services",
+            "Executive Services"
+        ],
+        "stat_2": "Executive Office",
+        "stat_2_items": [
+            "Design & Corporate Communication Services",
+            "Accounting Services",
+            "Technical Support Services"
+        ],
+        "stat_3": "Strategies and Development",
+        "stat_3_items": [
+            "Corporate Building",
+            "Administrative Structures",
+            "Business Development"
+        ],
+        "stat_4": "Non-Profit Consulting",
+        "floating_card": {
+            "members": "Partners",
+            "quote": "Creating Sustainable Impact",
+            "rating": "Rating"
+        }
+    },
+    "process": {
+        "title": "Our Methodology: Turning Your Vision into Reality",
+        "read_more": "Read More",
+        "steps": {
+            "analysis": {
+                "title": "Analysis",
+                "desc": "We understand your current situation and identify gaps and opportunities."
+            },
+            "planning": {
+                "title": "Planning",
+                "desc": "We develop a custom strategy and actionable plans."
+            },
+            "execution": {
+                "title": "Execution",
+                "desc": "We implement solutions with the highest quality standards."
+            },
+            "monitoring": {
+                "title": "Monitoring",
+                "desc": "We continuously monitor results and optimize for effectiveness."
+            },
+            "sustainability": {
+                "title": "Sustainability",
+                "desc": "We ensure long-term continuity of impact and results."
+            }
+        }
+    },
+    "portfolio": {
+        "title": "Trusted By",
+        "subtitle": "Our Partners",
+        "tagline": "Working with the leading brands shaping the Saudi market",
+        "project_1_desc": "Comprehensive digital identity and platform development with world-class quality standards.",
+        "project_2_desc": "Specialized tech consultancy to improve performance, user experience, and accelerate growth.",
+        "tag_digital": "Digital Identity",
+        "tag_tech": "Tech Consultancy"
+    },
+    "blog": {
+        "title": "Blog",
+        "subtitle": "Articles & Insights",
+        "tagline": "Strategic insights and expert knowledge shared by the Nahj Al-Tanfeeth team",
+        "featured": "Featured",
+        "read_more": "Read More",
+        "cat_tech": "Technology",
+        "cat_design": "UI / UX",
+        "cat_market": "Market",
+        "cat_team": "Team",
+        "cat_brand": "Branding",
+        "read_time_5": "5 min read",
+        "read_time_6": "6 min read",
+        "read_time_7": "7 min read",
+        "article_1": "How to choose the right technology for your startup?",
+        "article_1_excerpt": "Choosing the right platform and technical tools can define the success trajectory of your project. We highlight the key criteria to consider.",
+        "article_2": "The importance of UI/UX in increasing conversion rates.",
+        "article_2_excerpt": "User experience is not a luxury — it's a necessity. Discover how great design directly impacts your sales figures.",
+        "article_3": "Mistakes companies make when expanding into the Egyptian market.",
+        "article_3_excerpt": "The Egyptian market is rich with opportunity but hides many pitfalls. Learn the most common mistakes and how to avoid them.",
+        "article_4": "Best project management tools for startup teams",
+        "article_4_excerpt": "From Notion to Jira, find the right tool for your team and budget.",
+        "article_5": "How to build your digital brand from scratch",
+        "article_5_excerpt": "A strong digital identity opens many doors. Learn how to start the right way."
+    },
+    "faq": {
+        "title": "FAQ",
+        "subtitle": "Have a Question?",
+        "q1": "How to contract with a business development consulting firm?",
+        "a1": "Contracting with us is simple. We offer a free initial session to discuss your business challenges, then prepare a tailored plan as an administrative consulting office in Saudi Arabia to meet your needs.",
+        "q2": "What is the cost of strategic studies for companies?",
+        "a2": "The cost varies depending on the size of the startup or mid-sized company and market complexity. We offer strategic studies with the highest ROI and tailored to your budget.",
+        "q3": "Do you offer non-profit sector development consulting?",
+        "a3": "Yes, we have a specialized division for non-profit consulting; helping associations and foundations with strategic planning, governance, and precision impact measurement."
+    },
+    "about": {
+        "title": "About Us",
+        "subtitle": "ABOUT NAHG",
+        "main_title": "Innovative Strategies for Business Prosperity",
+        "description": "We provide integrated solutions that contribute to developing the non-profit sector and enhancing its community impact. Our innovative strategies are designed to foster growth and sustainability.",
+        "about_points": {
+            "1": "Strategic Planning Consulting",
+            "2": "Operational Excellence",
+            "3": "Digital Transformation",
+            "4": "Capacity Building",
+            "5": "Financial Sustainability",
+            "6": "Social Impact Measurement"
+        },
+        "experience_years": "25+",
+        "experience_text": "Years of Experience",
+        "cta": "Learn More"
+    },
+    "mission": {
+        "title": "Mission",
+        "description": "We design sustainable development interventions with positive impact that align with national contexts and development trends of Saudi Arabia by providing sustainable products, integrated work paths, and effective innovative entities."
+    },
+    "choose_us": {
+        "title": "3 Reasons To Choose Us",
+        "card_1": {
+            "title": "Expert Consultation",
+            "desc": "Access to a team of specialized consultants with deep expertise in the non-profit sector to ensure the best outcomes for your organization.",
+            "cta": "Read More"
+        },
+        "card_2": {
+            "title": "Sustainable Impact",
+            "desc": "We focus on creating long-lasting value and measuring the true social impact of your initiatives to maximize community benefit.",
+            "cta": "Read More"
+        },
+        "card_3": {
+            "title": "Innovative Solutions",
+            "desc": "Leveraging modern methodologies and digital tools to solve complex organizational challenges with high efficiency and agility.",
+            "cta": "Read More"
+        }
+    },
+    "vision": {
+        "title": "Vision",
+        "description": "We provide integrated solutions that contribute to developing the non-profit sector and enhancing its community impact."
+    },
+    "strategy": {
+        "title": "Strategy",
+        "description": "We equip organizations with deep strategic insights and specialized consulting expertise to design and execute robust business models that enhance their flexibility and competitive ability in achieving their goals."
+    },
+    "tech": {
+        "title": "Technology",
+        "description": "We provide the necessary technical tools to improve corporate communication and knowledge management."
+    },
+    "admin": {
+        "title": "Administrative",
+        "description": "We provide innovative solutions to improve processes and enhance performance in organizations working in the non-profit sector."
+    },
+    "products": {
+        "jadara": {
+            "title": "Jadara Incubator",
+            "desc": "Jadara Social Business Incubator is an initiative of the Council of NGOs. It incubates emerging associations to support them during their early years, as well as faltering associations needing specialized support to overcome challenges.",
+            "link": "Visit Platform"
+        },
+        "webian": {
+            "title": "Webian Product",
+            "desc": "A digital platform specializing in building and designing professional websites for non-profit organizations, developed to meet governance and transparency requirements.",
+            "link": "Visit Platform"
+        },
+        "jazeel": {
+            "title": "Jazeel Platform",
+            "desc": "An innovative digital platform dedicated to enabling non-profit organizations and donors to build and develop development projects with sustainable impact.",
+            "link": "Visit Platform"
+        }
+    },
+    "why_us": {
+        "title": "Why Nahg Al-Tanfeez?",
+        "p1_title": "Development Partnerships",
+        "p1_desc": "Greater access to donors and supporters and broad partnership horizons.",
+        "p2_title": "Funding and Support",
+        "p2_desc": "Greater ability to attract funding and support and mobilize the community.",
+        "p3_title": "Sustainable Impact",
+        "p3_desc": "Achieving sustainable community impact and increasing contribution to social development."
+    },
+    "footer": {
+        "description": "Nahg Al-Tanfeez is your strategic partner for growth and development. We help organizations achieve their goals with innovative and sustainable solutions.",
+        "follow_us": "Follow Us",
+        "pages": "Pages",
+        "contact_info": "Contact Info",
+        "phone_label": "Phone",
+        "email_label": "Email",
+        "link_home": "Home",
+        "link_services": "Our Services",
+        "link_contact": "Contact Us",
+        "rights": "All rights reserved — Nahg Al-Tanfeez Business Services"
+    },
+    "projects_page": {
+        "breadcrumb": "Our Projects",
+        "label": "Success Stories",
+        "hero_title": "Impact in Action",
+        "hero_subtitle": "We transform challenges into sustainable growth opportunities through integrated strategic solutions and precise execution.",
+        "stat1_value": "50+",
+        "stat1_label": "Projects Delivered",
+        "stat2_value": "35+",
+        "stat2_label": "Satisfied Clients",
+        "stat3_value": "8+",
+        "stat3_label": "Specialized Sectors",
+        "results": "results",
+        "challenge": "The Challenge",
+        "solution": "Our Solution",
+        "filter_all": "All Projects",
+        "filter_nonprofit": "Non-Profit",
+        "filter_tech": "Tech & Startups",
+        "filter_retail": "Retail",
+        "filter_logistics": "Logistics",
+        "industry_nonprofit": "Non-Profit",
+        "industry_tech": "Tech / Startup",
+        "industry_retail": "Retail",
+        "industry_logistics": "Logistics",
+        "industry_ecommerce": "E-Commerce",
+        "tag_strategy": "Strategic Planning",
+        "tag_impact": "Impact Measurement",
+        "tag_uiux": "UI/UX Design",
+        "tag_branding": "Digital Identity",
+        "tag_operations": "Operational Excellence",
+        "tag_digital": "Digital Transformation",
+        "p1_title": "Financial Sustainability for a Regional Charitable Foundation",
+        "p1_challenge": "High administrative overhead and difficulty tracking long-term social impact of donations.",
+        "p1_solution": "Developed a comprehensive Impact Measurement Framework and automated their financial reporting systems.",
+        "p1_metric_value": "35%",
+        "p1_metric_label": "Reduction in Administrative Costs",
+        "p2_title": "Digital Identity & Market Entry — SwiftLog",
+        "p2_challenge": "Entering a crowded market with no brand recognition and a complex, confusing user interface.",
+        "p2_solution": "Full digital identity overhaul and UI/UX redesign of their mobile app to simplify the booking flow.",
+        "p2_metric_value": "$2M",
+        "p2_metric_label": "Seed Funding Secured Post-Rebrand",
+        "p3_title": "Operational Excellence & Supply Chain Scaling",
+        "p3_challenge": "Inefficient supply chain leading to frequent stock-outs and declining customer satisfaction.",
+        "p3_solution": "Implemented Lean Management principles and a new Digital Transformation roadmap for inventory tracking.",
+        "p3_metric_value": "20%",
+        "p3_metric_label": "Improvement in Supply Chain Speed",
+        "p4_title": "Operational Restructuring for an International Freight Company",
+        "p4_challenge": "Rising operational costs and poor shipment tracking visibility across multiple distribution hubs.",
+        "p4_solution": "Designed optimized operational models and integrated a unified digital monitoring platform.",
+        "p4_metric_value": "40%",
+        "p4_metric_label": "Increase in ROI",
+        "p5_title": "Digital Transformation for a Non-Profit Training Academy",
+        "p5_challenge": "Complete reliance on in-person workshops with no digital infrastructure to scale impact.",
+        "p5_solution": "Developed an integrated digital strategy and launched a full e-learning platform.",
+        "p5_metric_value": "+300%",
+        "p5_metric_label": "Growth in Audience Reach",
+        "p6_title": "Conversion Rate Optimization for an E-Commerce Store",
+        "p6_challenge": "Low conversion rates and high shopping cart abandonment despite strong traffic volumes.",
+        "p6_solution": "Conducted a full UX audit and redesigned the checkout journey to reduce friction.",
+        "p6_metric_value": "28%",
+        "p6_metric_label": "Lift in Conversion Rate",
+        "case_studies_label": "In-Depth Case Studies",
+        "case_studies_title": "Our Three Landmark Projects",
+        "case_studies_subtitle": "A deep-dive into three pivotal projects that showcase our methodology and the depth of our impact.",
+        "cs1_industry": "Non-Profit Sector",
+        "cs1_title": "Financial Sustainability & Impact Measurement",
+        "cs1_client": "Regional Charitable Foundation",
+        "cs1_challenge": "High administrative overhead and lack of impact measurement tools made it difficult to retain donors and build long-term relationships.",
+        "cs1_solution": "We developed a comprehensive social impact measurement framework and automated the financial reporting systems to ensure full transparency for donors.",
+        "cs1_r1": "Reduction in admin costs",
+        "cs1_r2": "Increase in donor trust ratings",
+        "cs1_chart_label": "Financial Sustainability Growth",
+        "cs1_metric_label": "Cost Reduction",
+        "cs1_metric2_label": "Donor Trust",
+        "cs2_industry": "Tech Startup",
+        "cs2_title": "Digital Identity & Market Entry",
+        "cs2_client": "SwiftLog — Tech-Logistics Startup",
+        "cs2_challenge": "Entering a crowded logistics market with no brand recognition and a complex user interface that hindered early growth.",
+        "cs2_solution": "We conducted a full digital identity overhaul and redesigned the mobile app's UI/UX to simplify the booking flow and build trust.",
+        "cs2_r1": "Seed Funding Secured",
+        "cs2_r2": "Active Users in Q1",
+        "cs2_metric_label": "Seed Funding",
+        "cs2_metric2_label": "Active Users",
+        "cs3_industry": "Mid-Size Retail",
+        "cs3_title": "Operational Excellence & Market Expansion",
+        "cs3_client": "Mid-Sized Retail Chain",
+        "cs3_challenge": "Inefficient supply chain disruptions caused frequent stock-outs and a measurable decline in customer satisfaction and revenue.",
+        "cs3_solution": "We implemented Lean Management principles and launched a digital transformation roadmap for the entire inventory management ecosystem.",
+        "cs3_r1": "Supply chain speed improvement",
+        "cs3_r2": "Boost in annual revenue",
+        "cs3_metric_label": "Supply Chain",
+        "cs3_metric2_label": "Revenue Growth",
+        "cs3_before": "Before",
+        "cs3_after": "After",
+        "cs3_step1": "Stock",
+        "cs3_step2": "Process",
+        "cs3_step3": "Deliver",
+        "cs3_step4": "Done",
+        "cta_title": "Ready to Be Our Next Success Story?",
+        "cta_subtitle": "Your free first consultation is the beginning of your sustainable growth journey. Let's create impact together.",
+        "cta_btn": "Book Your Free Consultation",
+        "cta_learn_more": "Learn More About Us",
+        "trust_1": "Free First Consultation",
+        "trust_2": "Team of Specialized Experts",
+        "trust_3": "Measured & Documented Results"
+    }
+}
